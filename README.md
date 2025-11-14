@@ -1,2 +1,2 @@
 # week1
-Author - Jonathan
+Author - Jonathan Fernandes
